@@ -1,0 +1,4 @@
+﻿Thành phần,Phạm vi sử dụng,Thiết lập trong kịch bản
+Ridge Regression,Kiểm định bộ đặc trưng và so sánh mô hình,alpha = 1.5
+Random Forest Regressor,So sánh mô hình trên AQM_Lag_proposed,"n_estimators = 80, max_depth = 14, min_samples_leaf = 2, random_state = 42"
+Extra Trees Regressor,So sánh mô hình trên AQM_Lag_proposed,"n_estimators = 100, min_samples_leaf = 1, random_state = 42"

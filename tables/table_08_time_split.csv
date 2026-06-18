@@ -1,0 +1,4 @@
+﻿split,year_range,n_rows
+train,2015-2021,9125
+validation,2022-2023,2625
+test,2024-2025,2350

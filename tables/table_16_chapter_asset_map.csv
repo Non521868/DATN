@@ -1,0 +1,6 @@
+﻿chapter,recommended_assets
+Tóm tắt / Đặt vấn đề,table_01_dataset_overview.csv; figure_02_annual_respiratory_trend.png
+Chương 1,table_01_dataset_overview.csv; table_02_variable_groups.csv; table_03_missing_values.csv; table_05_outlier_summary.csv; figure_04_respiratory_by_region.png
+Chương 3,table_08_time_split.csv; supp_aqm_stress_weights.csv; table_09_feature_catalog.csv; figure_14_validation_rmse_by_feature_set.png
+Chương 4,table_15_ablation_best_by_feature_set.csv; table_11_validation_model_ranking.csv; table_12_test_model_ranking.csv; supp_top10_permutation_importance.csv; figure_10_actual_vs_predicted.png; figure_12_global_actual_vs_predicted_over_time.png; figure_13_top_permutation_importance.png
+Phụ lục,supp_*.csv; models/best_model_info.json; models/best_model.joblib; dashboard/dashboard_climate_respiratory.html; dashboard/app.py; report/auto_summary_for_writing.md

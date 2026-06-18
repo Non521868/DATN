@@ -1,0 +1,3 @@
+﻿item,description
+target_lag_features,Lagged respiratory_disease_rate features use previous-week values only; current-week target is not used as input.
+intended_use,Suitable for periodic surveillance or short-term forecasting when historical respiratory rates are available.

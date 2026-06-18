@@ -1,0 +1,4 @@
+﻿split,year_range,n_rows,missing_values,missing_percent
+train,2015-2021,9125,1500,0.2382
+validation,2022-2023,2625,0,0.0
+test,2024-2025,2350,0,0.0

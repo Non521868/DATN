@@ -1,0 +1,10 @@
+﻿variable,lower_bound,upper_bound,outlier_count,outlier_percent,mean,std
+temperature_celsius,-24.63125,41.73875,0,0.0,8.61,11.29
+temp_anomaly_celsius,-1.24,1.48,81,0.57,0.12,0.51
+precipitation_mm,-37.14999999999999,199.25,14,0.1,81.15,40.82
+heat_wave_days,0.0,0.0,1616,11.46,0.15,0.46
+pm25_ugm3,-49.949999999999996,180.85,11,0.08,65.77,38.1
+air_quality_index,-78.0,274.0,11,0.08,98.75,59.14
+respiratory_disease_rate,27.250000000000007,112.44999999999999,54,0.38,70.02,15.22
+healthcare_access_index,-4.499999999999993,133.1,0,0.0,64.88,18.23
+gdp_per_capita_usd,-66439.75,120194.25,0,0.0,26331.11,26329.11

@@ -1,0 +1,7 @@
+﻿Nhóm biến,Số lượng,Thành phần tiêu biểu
+Định danh và không gian,8,"record_id, country_code, country_name, region, income_level, latitude, longitude, population_millions"
+Thời gian,4,"date, year, month, week"
+Khí hậu và thời tiết cực đoan,7,"temperature_celsius, temp_anomaly_celsius, precipitation_mm, heat_wave_days, drought_indicator, flood_indicator, extreme_weather_events"
+Chất lượng không khí,2,"pm25_ugm3, air_quality_index"
+Kết cục sức khỏe,5,"respiratory_disease_rate, cardio_mortality_rate, vector_disease_risk_score, waterborne_disease_incidents, heat_related_admissions"
+Kinh tế - xã hội và hệ thống y tế,4,"healthcare_access_index, gdp_per_capita_usd, mental_health_index, food_security_index"

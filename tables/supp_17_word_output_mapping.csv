@@ -1,0 +1,18 @@
+﻿word_location,word_caption,output_file,use_in_word
+Bảng 1.1,Tổng quan bộ dữ liệu,table_01_dataset_overview.csv,Chính
+Bảng 1.2,Nhóm biến trong bộ dữ liệu,table_02_variable_groups.csv,Chính
+Bảng 1.3,Tóm tắt dữ liệu thiếu,table_03_missing_values.csv,Chính hoặc phụ lục
+Bảng 3.1,"Phân chia tập huấn luyện, kiểm định và kiểm tra theo thời gian",table_08_time_split.csv,Chính
+Bảng 3.2,Thành phần và trọng số của AQM Stress Index,supp_aqm_stress_weights.csv,Chính
+Bảng 3.3,Danh mục các bộ đặc trưng,table_09_feature_catalog.csv,Chính
+Bảng 4.1,Kết quả loại/bổ sung đặc trưng theo bộ đặc trưng,table_15_ablation_best_by_feature_set.csv,Chính
+Bảng 4.2,Xếp hạng mô hình trên tập kiểm định,table_11_validation_model_ranking.csv,Chính
+Bảng 4.3,Kết quả mô hình trên tập kiểm tra,table_12_test_model_ranking.csv,Chính
+Bảng 4.4,Top 10 đặc trưng quan trọng theo phương pháp hoán vị,supp_top10_permutation_importance.csv,Chính
+Hình 1.1,Xu hướng tỷ lệ bệnh hô hấp trung bình theo năm,figure_02_annual_respiratory_trend.png,Chính
+Hình 1.2,Tỷ lệ bệnh hô hấp trung bình theo vùng địa lý,figure_04_respiratory_by_region.png,Chính
+Hình 4.1,Giá trị thực tế và giá trị dự báo trên tập kiểm tra,figure_10_actual_vs_predicted.png,Chính
+Hình 4.2,Phân bố phần dư trên tập kiểm tra,figure_11_residual_histogram.png,Chính
+Hình 4.3,Xu hướng trung bình thực tế và dự báo trên tập kiểm tra,figure_12_global_actual_vs_predicted_over_time.png,Chính
+Hình 4.4,Top đặc trưng quan trọng theo phương pháp hoán vị,figure_13_top_permutation_importance.png,Chính
+Hình 4.5,RMSE trên tập kiểm định theo bộ đặc trưng,figure_14_validation_rmse_by_feature_set.png,Chính

@@ -1,0 +1,4 @@
+﻿feature_set,n_features,description
+baseline_raw,19,Raw current-week variables
+lag_enhanced,49,"Raw variables plus lag, rolling and seasonal features"
+AQM_Lag_proposed,53,Lag-enhanced features plus AQM stress index and simple interaction terms

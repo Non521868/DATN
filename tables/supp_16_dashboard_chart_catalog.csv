@@ -1,0 +1,9 @@
+﻿dashboard_id,dashboard_title,related_static_output,word_caption_suggestion,purpose
+D01,Xu hướng tỷ lệ bệnh hô hấp theo năm và vùng,figure_02_annual_respiratory_trend.png; figure_04_respiratory_by_region.png,Hình minh họa bảng điều khiển D01,Theo dõi xu hướng bệnh hô hấp theo thời gian và vùng địa lý
+D02,PM2.5 và tỷ lệ bệnh hô hấp,figure_06_pm25_vs_respiratory.png,Hình minh họa bảng điều khiển D02,Khám phá quan hệ giữa ô nhiễm bụi mịn và tỷ lệ bệnh hô hấp
+D03,Tỷ lệ bệnh hô hấp trung bình theo vùng,figure_04_respiratory_by_region.png,Hình minh họa bảng điều khiển D03,So sánh trung bình tỷ lệ bệnh hô hấp giữa các vùng
+D04,Xếp hạng quốc gia theo tỷ lệ bệnh hô hấp trung bình,table_07_country_summary.csv,Hình minh họa bảng điều khiển D04,So sánh các quốc gia theo tỷ lệ bệnh hô hấp trung bình
+D05,Phân bố tỷ lệ bệnh hô hấp theo nhóm thu nhập,figure_03_respiratory_by_income.png,Hình minh họa bảng điều khiển D05,Quan sát phân bố và ngoại lệ theo nhóm thu nhập
+D06,Giá trị thực tế và dự báo trên tập kiểm tra,figure_10_actual_vs_predicted.png,Hình minh họa bảng điều khiển D06,Đánh giá mức độ khớp giữa giá trị thực tế và giá trị dự báo
+D07,Xu hướng trung bình thực tế và dự báo trên tập kiểm tra,figure_12_global_actual_vs_predicted_over_time.png,Hình minh họa bảng điều khiển D07,Theo dõi sai khác dự báo theo thời gian
+D08,RMSE trên tập kiểm tra theo vùng,supp_10_test_error_by_region.csv,Hình minh họa bảng điều khiển D08,Đánh giá sai số mô hình theo vùng địa lý

@@ -1,0 +1,6 @@
+{
+  "best_feature_set": "AQM_Lag_proposed",
+  "best_model_name": "Ridge",
+  "n_features": 53,
+  "selection_phase": "model_comparison"
+}
